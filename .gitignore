@@ -1,0 +1,9 @@
+/*
+!src
+!pom.xml
+!.gitignore
+!/target/
+/target/*
+!target/myname-jar-with-dependencies.jar
+
+
