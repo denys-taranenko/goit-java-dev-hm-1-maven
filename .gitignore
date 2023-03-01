@@ -4,6 +4,6 @@
 !.gitignore
 !/target/
 /target/*
-!target/myname-jar-with-dependencies.jar
+!target/myname.jar
 
 
